@@ -1,3 +1,5 @@
+![Retail Sales SQL Project](images/cover.png)
+
 Retail Sales SQL Analysis
 Author: MERSIMOY GURMU
 Tools Used: MySQL Workbench, SQL
